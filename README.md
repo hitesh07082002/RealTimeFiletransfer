@@ -3,7 +3,7 @@
 This is a simple file transfer application built using Node.js, Express, and Socket.IO. It allows users to register, login, send files to other registered users, and receive files sent to them.
 
 ## Video Preview
-Drive Link-https://drive.google.com/file/d/1wcBCVRzMlNYxTuBU_DRHNaMdSubbIRYD/view?usp=sharing
+
 
 ## Getting Started
 
